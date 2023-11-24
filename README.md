@@ -7,6 +7,9 @@ Minecraft Modpack that aims to bring back old Beta experience to Steam Deck
 
 <h4>This modpack changes the new version of Minecraft to resemble and function like the Beta version, but does not remove new things from the game</h4>
 
+<h2>Links</h2>
+- https://modrinth.com/modpack/betadeck
+
 <h2>Things that are changed:</h2>
 
 - New generation mode
