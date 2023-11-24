@@ -33,3 +33,15 @@ And more! Download and check for yourself!
 - Structures
 
 If you want, you can turn them off in the config
+
+<h2>SteamDeck Features</h2>
+- Gamepad support
+- SteamGridDB images
+
+<h2>Known issues</h2>
+Not yet ¯\_(ツ)_/¯
+
+<h2>Things used</h2>
+
+[Steam Deck Pixelart](https://www.reddit.com/r/Steam/comments/tvofg5/steam_deck_pixel_art_i_made_this_a_few_days_ago/ 'Reddit Post')</br>
+[GoldenDays Pack](https://www.curseforge.com/minecraft/texture-packs/golden-days 'GoldenDays link')
